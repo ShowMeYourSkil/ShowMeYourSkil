@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+ [![Years Badge](https://badges.pufler.dev/years/ShowMeYourSkil)](https://https://progen-bot.de)
+ [![Repos Badge](https://badges.pufler.dev/repos/ShowMeYourSkil)](https://progen-bot.de)
+ [![Visits Badge](https://badges.pufler.dev/visits/ShowMeYourSkil/ShowMeYourSkil)](https://progen-bot.de)
+ 
+
+
+
+
 <!--
 **ShowMeYourSkil/ShowMeYourSkil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
