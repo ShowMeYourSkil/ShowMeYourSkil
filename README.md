@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShowMeYourSkil&theme=vue-dark&show_icons=true))](https://github.com/ShowMeYourSkil/ShowMeYourSkil)
+
  [![Years Badge](https://badges.pufler.dev/years/ShowMeYourSkil)](https://github.com/ShowMeYourSkil)
  [![Repos Badge](https://badges.pufler.dev/repos/ShowMeYourSkil)](https://github.com/ShowMeYourSkil?tab=repositories)
  [![Visits Badge](https://badges.pufler.dev/visits/ShowMeYourSkil/ShowMeYourSkil)](https://github.com/ShowMeYourSkil?tab=repositories)
