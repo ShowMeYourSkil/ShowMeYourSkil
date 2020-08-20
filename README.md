@@ -6,10 +6,6 @@
  [![Repos Badge](https://badges.pufler.dev/repos/ShowMeYourSkil)](https://github.com/ShowMeYourSkil?tab=repositories)
  [![Visits Badge](https://badges.pufler.dev/visits/ShowMeYourSkil/ShowMeYourSkil)](https://github.com/ShowMeYourSkil?tab=repositories)
  
-
-
-
-
 <!--
 **ShowMeYourSkil/ShowMeYourSkil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
