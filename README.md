@@ -1,8 +1,7 @@
-### Hi there my Name is ShowMeYourSkil and i'm from Germany
+# :wave: Hello my Name ist ShowMeYourSkil
 
 [![ShowMeYourSkil's github stats](https://github-readme-stats.vercel.app/api?username=ShowMeYourSkil&theme=vue-dark&show_icons=true)](https://github.com/ShowMeYourSkil/ShowMeYourSkil)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShowMeYourSkil)](https://github.com/ShowMeYourSkil/ShowMeYourSkil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShowMeYourSkil&theme=vue-dark&show_icons=true)](https://github.com/ShowMeYourSkil/ShowMeYourSkil)
 #
 [![Years Badge](https://badges.pufler.dev/years/ShowMeYourSkil)](https://github.com/ShowMeYourSkil)
  [![Repos Badge](https://badges.pufler.dev/repos/ShowMeYourSkil)](https://github.com/ShowMeYourSkil?tab=repositories)
