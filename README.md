@@ -24,6 +24,6 @@
 # 📖 Where I publish my article
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mtorials&repo=hugo-mt32&show_icons=true&theme=graywhite )](https://github.com/mtorials/hugo-mt32)
 
-🌐https://mt32.net
+### 🌐https://mt32.net
 
 I publish my articles on the blog of the hobby programmers @mtorials and @universumgames. It is a blog that is exclusively for computer science. I write whenever I have time and want to, from simple how to install turtorials to big automation articles.
