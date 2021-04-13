@@ -26,4 +26,4 @@
 
 ### 🌐https://mt32.net
 
-I publish my articles on the blog of ![@mtorials](https://github.com/mtorials). It is a blog that is exclusively for computer science. I write whenever I have time and want to, from simple how to install turtorials to big automation articles.
+I publish my articles on the blog of [@mtorials](https://github.com/mtorials). It is a blog that is exclusively for computer science. I write whenever I have time and want to, from simple how to install turtorials to big automation articles.
