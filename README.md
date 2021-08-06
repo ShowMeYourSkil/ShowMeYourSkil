@@ -1,4 +1,4 @@
-# :wave: Hello my Name ist ShowMeYourSkil
+# :wave: Hello my Name is ShowMeYourSkil
 
 [![ShowMeYourSkil's github stats](https://github-readme-stats.vercel.app/api?username=ShowMeYourSkil&theme=vue-dark&show_icons=true)](https://github.com/ShowMeYourSkil/ShowMeYourSkil)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShowMeYourSkil&theme=vue-dark&show_icons=true)](https://github.com/ShowMeYourSkil/ShowMeYourSkil)
